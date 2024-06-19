@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    box-shadow: 0px 10px 30px 0px #8080802f;
+    width: 550px;
+    border-radius: 5%;
+}
+
+#container form {
+    padding: 20px;
+}
+
+#container form .mb-3 {
+    width: 400px;
+}
